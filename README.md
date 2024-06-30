@@ -22,6 +22,7 @@ Hi there 👋<br>I'm Archit Agrawal!<br>💻 Software Developer: Passionate abou
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
 ---
+![](https://komarev.com/ghpvc/?username=architagrawal&abbreviated=true&base=10&style=for-the-badge&color=orange)
 [![](https://visitcount.itsvg.in/api?id=architagrawal&icon=5&color=2)](https://visitcount.itsvg.in)
 
 <!--
