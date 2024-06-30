@@ -16,7 +16,16 @@ Hi there 👋<br>I'm Archit Agrawal!<br>💻 Software Developer: Passionate abou
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=architagrawal&theme=gruvbox_light&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 -->
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=architagrawal&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=architagrawal&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="GitHub Stats"/>
+    </td>
+    <td>
+      <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" alt="Random Dev Quote"/>
+    </td>
+  </tr>
+</table>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
