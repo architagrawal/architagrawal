@@ -14,22 +14,27 @@ Hi there 👋<br>I'm Archit Agrawal!<br>💻 Software Developer: Passionate abou
 ![](https://github-readme-stats.vercel.app/api?username=architagrawal&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=architagrawal&theme=default&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=architagrawal&theme=gruvbox_light&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
--->
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=architagrawal&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-<table>
+-->
+<table style="border: none; border-collapse: collapse;">
+  <tr style="border: none;">
+    <th style="border: none;">📊 GitHub Stats</th>
+    <th style="border: none;">✍️ Random Dev Quote</th>
+  </tr>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=architagrawal&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="GitHub Stats"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=architagrawal&theme=default&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="GitHub Stats"/>
     </td>
     <td>
-      <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" alt="Random Dev Quote"/>
+      <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
     </td>
   </tr>
 </table>
 
+<!--
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
-
+-->
 ---
 ![](https://komarev.com/ghpvc/?username=architagrawal&abbreviated=true&base=10&style=for-the-badge&color=orange)
 <!--
