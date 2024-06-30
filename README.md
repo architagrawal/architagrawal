@@ -22,7 +22,7 @@ Hi there 👋<br>I'm Archit Agrawal!<br>💻 Software Developer: Passionate abou
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=architagrawal&icon=5&color=1)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=architagrawal&icon=5&color=2)](https://visitcount.itsvg.in)
 
 <!--
 **architagrawal/architagrawal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
