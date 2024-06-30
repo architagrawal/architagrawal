@@ -1,6 +1,5 @@
-## Hi there 👋
 # 💫 About Me:
-<br>I'm Archit Agrawal!<br>💻 Software Developer: Passionate about creating innovative solutions.<br>🤖 Generative AI Enthusiast: Exploring the frontiers of creativity with AI.<br>📊 Machine Learning Aficionado: Dedicated to making data-driven insights.<br>🧠 AI Advocate: Committed to advancing artificial intelligence technologies.<br>🌱 Lifelong Learner: Continuously evolving and embracing new challenges.<br>Let's connect and collaborate on groundbreaking projects!
+Hi there 👋<br>I'm Archit Agrawal!<br>💻 Software Developer: Passionate about creating innovative solutions.<br>🤖 Generative AI Enthusiast: Exploring the frontiers of creativity with AI.<br>📊 Machine Learning Aficionado: Dedicated to making data-driven insights.<br>🧠 AI Advocate: Committed to advancing artificial intelligence technologies.<br>🌱 Lifelong Learner: Continuously evolving and embracing new challenges.<br>Let's connect and collaborate on groundbreaking projects!
 
 
 ## 🌐 Socials:
