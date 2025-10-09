@@ -4,7 +4,7 @@ Hi there 👋<br>I'm Archit Agrawal!<br>💻 Software Developer: Passionate abou
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/agrawal-archit) 
-[![Personal Website](https://img.shields.io/badge/PersonalWeb-%8A2BE2.svg)](https://agrawal-archit.vercel.app)
+[![Personal Website](https://img.shields.io/badge/Visit-My-Personal-Website-%8A2BE2.svg)](https://agrawal-archit.vercel.app)
 
 
 # 💻 Tech Stack:
