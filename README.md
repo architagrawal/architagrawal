@@ -8,17 +8,17 @@
 
 </div>
 
-### 👋 About me
+### About me
 
 I build AI systems people can trust with real decisions: agents that choose, code that computes, and a check on every answer before anyone sees it.
 
-- 🔭 **Working on**: a 12-agent analytics platform on AWS Bedrock and Step Functions that answers plain-English questions over any dataset.
-- 🎧 **Building on the side**: [AiJockey](https://github.com/architagrawal/aiJockey), an AI DJ that plans and mixes a set end to end.
-- 🧪 **How I work**: build the control first, measure, then keep the agent only where it beats the rules.
-- 🎓 **Background**: MS Computer Science, Arizona State University, 4.0 GPA.
-- 📫 **Reach me**: [architagrawal000@gmail.com](mailto:architagrawal000@gmail.com)
+- **Working on**: a 12-agent analytics platform on AWS Bedrock and Step Functions that answers plain-English questions over any dataset.
+- **Building on the side**: [AiJockey](https://github.com/architagrawal/aiJockey), an AI DJ that plans and mixes a set end to end.
+- **How I work**: build the control first, measure, then keep the agent only where it beats the rules.
+- **Background**: MS Computer Science, Arizona State University, 4.0 GPA.
+- **Reach me**: [architagrawal000@gmail.com](mailto:architagrawal000@gmail.com)
 
-### 📈 Results
+### Results
 
 <table>
 <tr>
@@ -31,7 +31,7 @@ I build AI systems people can trust with real decisions: agents that choose, cod
 
 Full story: [Survey Agents case study](https://agrawal-archit.vercel.app/work/survey-agents)
 
-### 🚀 Featured projects
+### Featured projects
 
 <div align="center">
 <a href="https://github.com/architagrawal/aiJockey"><img src="https://github-readme-stats.vercel.app/api/pin/?username=architagrawal&repo=aiJockey&theme=transparent&hide_border=true&title_color=E8743B&icon_color=E8743B&text_color=8B949E&description_lines_count=3" width="49%" alt="aiJockey"></a>
@@ -40,7 +40,7 @@ Full story: [Survey Agents case study](https://agrawal-archit.vercel.app/work/su
 <a href="https://github.com/architagrawal/postscheduler"><img src="https://github-readme-stats.vercel.app/api/pin/?username=architagrawal&repo=postscheduler&theme=transparent&hide_border=true&title_color=E8743B&icon_color=E8743B&text_color=8B949E&description_lines_count=3" width="49%" alt="postscheduler"></a>
 </div>
 
-### 🛠️ Tech stack
+### Tech stack
 
 **Languages**
 
@@ -62,19 +62,14 @@ Full story: [Survey Agents case study](https://agrawal-archit.vercel.app/work/su
 
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=white" alt="React"> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"> <img src="https://img.shields.io/badge/Vue/Nuxt-4FC08D?style=for-the-badge&logo=nuxtdotjs&logoColor=white" alt="Vue/Nuxt"> <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
 
-### 📊 GitHub activity
+### Languages
 
 <div align="center">
-<img src="https://streak-stats.demolab.com/?user=architagrawal&disable_animations=true&theme=transparent&hide_border=true&ring=E8743B&fire=E8743B&currStreakNum=E8743B&currStreakLabel=E8743B&sideNums=8B949E&sideLabels=8B949E&dates=8B949E&stroke=8B949E" width="49%" alt="Contribution streak">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=architagrawal&layout=compact&langs_count=6&hide=css,html,shell,powershell,jupyter%20notebook,batchfile&theme=transparent&hide_border=true&title_color=E8743B&text_color=8B949E&disable_animations=true" width="49%" alt="Top languages">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=architagrawal&layout=compact&langs_count=6&hide=css,html,shell,powershell,jupyter%20notebook,batchfile&theme=transparent&hide_border=true&title_color=E8743B&text_color=8B949E&disable_animations=true" width="60%" alt="Top languages">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/architagrawal/architagrawal/output/snake-dark.svg">
-  <img src="https://raw.githubusercontent.com/architagrawal/architagrawal/output/snake.svg" alt="Contribution graph eaten by a snake">
-</picture>
 </div>
 
-### 🌱 Open source
+### Open source
 
 Contributor to Sugar Labs' [sugar](https://github.com/sugarlabs/sugar), the learning environment behind One Laptop per Child.
 
