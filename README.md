@@ -30,4 +30,4 @@
 
 <p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="themes/blackhole/quote-dark.svg"><img src="themes/blackhole/quote-light.svg" alt="Quote of the day"></picture></p>
 
-<p align="center"><a href="https://hits.sh/github.com/architagrawal/"><img src="https://hits.sh/github.com/architagrawal.svg?style=flat-square&label=visitors&color=6e7781" alt="Visitors"></a></p>
+<p align="center"><a href="https://hits.sh/github.com/architagrawal/"><img src="https://hits.sh/github.com/architagrawal.svg?style=flat-square&label=visitors&color=6e7781&extraCount=3045" alt="Visitors"></a></p>
