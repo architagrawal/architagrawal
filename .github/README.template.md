@@ -17,15 +17,15 @@
 <p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="themes/{{SCENE}}/projects-dark.svg"><img src="themes/{{SCENE}}/projects-light.svg" alt="Side projects"></picture></p>
 
 <p align="center">
-<a href="https://github.com/architagrawal/aiJockey"><picture><source media="(prefers-color-scheme: dark)" srcset="themes/{{SCENE}}/aijockey-dark.svg"><img src="themes/{{SCENE}}/aijockey-light.svg" width="40%" alt="AiJockey: an AI DJ that splits songs into stems, plans the set and mixes the transitions"></picture></a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://agrawal-archit.vercel.app/projects/clash-royale-clan-analytics-platform?ref=github"><picture><source media="(prefers-color-scheme: dark)" srcset="themes/{{SCENE}}/clash-dark.svg"><img src="themes/{{SCENE}}/clash-light.svg" width="40%" alt="Clash Royale Analytics: collects a clan's battle data on a schedule and turns it into interactive charts"></picture></a>
+<a href="https://github.com/architagrawal/aiJockey"><picture><source media="(prefers-color-scheme: dark)" srcset="themes/{{SCENE}}/aijockey-dark.svg"><img src="themes/{{SCENE}}/aijockey-light.svg" width="48%" alt="AiJockey: an AI DJ that splits songs into stems, plans the set and mixes the transitions"></picture></a>
+&nbsp;
+<a href="https://agrawal-archit.vercel.app/projects/clash-royale-clan-analytics-platform?ref=github"><picture><source media="(prefers-color-scheme: dark)" srcset="themes/{{SCENE}}/clash-dark.svg"><img src="themes/{{SCENE}}/clash-light.svg" width="48%" alt="Clash Royale Analytics: collects a clan's battle data on a schedule and turns it into interactive charts"></picture></a>
 </p>
 
 <p align="center">
-<a href="https://github.com/architagrawal/srp-electric-mcp"><picture><source media="(prefers-color-scheme: dark)" srcset="themes/{{SCENE}}/srp-dark.svg"><img src="themes/{{SCENE}}/srp-light.svg" width="40%" alt="SRP Electric MCP: lets an AI assistant read my power bill and hourly usage"></picture></a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://agrawal-archit.vercel.app/projects/prismsplit?ref=github"><picture><source media="(prefers-color-scheme: dark)" srcset="themes/{{SCENE}}/prismsplit-dark.svg"><img src="themes/{{SCENE}}/prismsplit-light.svg" width="40%" alt="PrismSplit: scans a receipt and splits the bill by what each person actually ordered"></picture></a>
+<a href="https://github.com/architagrawal/srp-electric-mcp"><picture><source media="(prefers-color-scheme: dark)" srcset="themes/{{SCENE}}/srp-dark.svg"><img src="themes/{{SCENE}}/srp-light.svg" width="48%" alt="SRP Electric MCP: lets an AI assistant read my power bill and hourly usage"></picture></a>
+&nbsp;
+<a href="https://agrawal-archit.vercel.app/projects/prismsplit?ref=github"><picture><source media="(prefers-color-scheme: dark)" srcset="themes/{{SCENE}}/prismsplit-dark.svg"><img src="themes/{{SCENE}}/prismsplit-light.svg" width="48%" alt="PrismSplit: scans a receipt and splits the bill by what each person actually ordered"></picture></a>
 </p>
 
 <p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="themes/{{SCENE}}/quote-dark.svg"><img src="themes/{{SCENE}}/quote-light.svg" alt="Quote of the day"></picture></p>
