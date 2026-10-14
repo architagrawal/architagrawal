@@ -13,6 +13,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
       - name: Write README for today's scene
         id: pick
         run: echo "scene=$(.github/rotate.sh)" >> "$GITHUB_OUTPUT"
